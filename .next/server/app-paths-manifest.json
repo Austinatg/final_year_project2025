@@ -1,0 +1,4 @@
+{
+  "/[[...sign-in]]/page": "app/[[...sign-in]]/page.js",
+  "/(dashboard)/admin/page": "app/(dashboard)/admin/page.js"
+}
